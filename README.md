@@ -21,8 +21,8 @@ Tutorial
 ==
   1. The parameters used for TAPS can be modified in pars/taps.par file
   2. Running:
-```
-     1. > python HePaCS.py                                  
+
+> python HePaCS.py                                  
 
 TODO
 =
