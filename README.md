@@ -12,9 +12,9 @@ Requirements
   * python >=3.7.4 
   * GromacsWrapper >=0.8.0
   * mpi4py >=3.0.3
-  
+===
 2. TAPS 
-See details in TAPS;   
+Pls see more details in TAPS;   
             
 Tutorial
 ==
